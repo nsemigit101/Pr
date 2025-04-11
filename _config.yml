@@ -3,36 +3,3 @@ description: "Personal Portfolio Website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mynamemm.github.io" # your domain name or GitHub Pages URL
 theme: minima # or any other Jekyll theme you prefer
-
-# Author info
-author:
-  name: "My Name i"
-  email: "tgtf.ffg@example.com"
-
-# Social media links
-social_links:
-  github: https://github.com/
-  linkedin: https://linkedin.com/in/
-  twitter: https://twitter.com/
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-
-# Permalinks
-permalink: pretty
-
-# Plugins (you can add more if you enable them in GitHub Pages)
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# Google Analytics (optional)
-google_analytics: UA-XXXXXXXXX-X
-
-# Exclude these files from the build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - README.md
