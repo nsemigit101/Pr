@@ -19,7 +19,7 @@ Let's connect and collaborate! 🚀
 
 ---
 </td>
-    <td width="150%" valign="top">
+    <td width="60%" valign="top">
 
 
 
