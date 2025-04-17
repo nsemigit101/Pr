@@ -1,10 +1,15 @@
 <table>
-  <tr>
+
     <!-- Left column (stays as one column) -->
     <td width="40%" valign="top">
       <h1>👋 Hi there, I'm [Your Name]!</h1>
       I'm a passionate [Your Role] from [Your Country] 🌍  
-      I love building cool stuff and solving real-world problems with code.
+     <tr>
+          <td>
+            I love building cool stuff and solving real-world problems with code.
+           <td> 
+             <tr>
+         
       Let's connect and collaborate! 🚀
 
       <h3>🛠️ Tech Stack</h3>
@@ -23,6 +28,7 @@
             <h3>🚀 My Projects</h3>
           </td>
         </tr>
+        
         <tr>
           <td>
             <h4>🌟 [Project 1 Name](https://github.com/yourusername/project1)</h4>
