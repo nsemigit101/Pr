@@ -1,6 +1,7 @@
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <!-- Left column with rowspan -->
+    <td width="40%" valign="top" rowspan="5">
 
 <h1>👋 Hi there, I'm [Your Name]!</h1>
 
@@ -17,43 +18,59 @@ Let's connect and collaborate! 🚀
 <img src="https://img.shields.io/badge/-React-20232A?logo=react" />
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff" />
 
----
-</td>
+    </td>
+ </tr>
+
+  <tr>
+    <!-- Right column row 1 -->
     <td width="60%" valign="top">
 
-
-
-## 🚀 My Projects
-
-### 🌟 [Project 1 Name](https://github.com/yourusername/project1)
-> Short 1-2 sentence description of what this project does and why it's cool.
+<h3>🚀 Project 1</h3>
+🌟 [Project 1 Name](https://github.com/yourusername/project1)  
+> Short 1-2 sentence description.
 
 **Tech Used:** React, Node.js, MongoDB  
-**Features:** Responsive UI, Authentication, API integration  
-![Project Screenshot](https://via.placeholder.com/600x300.png?text=Project+1+Screenshot)
+**Features:** Responsive UI, Authentication  
+![Screenshot](https://via.placeholder.com/600x300.png?text=Project+1)
 
----
+    </td>
+  </tr>
 
-### 🧠 [Project 2 Name](https://github.com/yourusername/project2)
-> Quick summary of your second project.
+  <tr>
+    <!-- Right column row 2 -->
+    <td width="60%" valign="top">
+
+<h3>🧠 Project 2</h3>
+[Project 2 Name](https://github.com/yourusername/project2)  
+> Another cool description.
 
 **Tech Used:** HTML, CSS, JavaScript  
-**Features:** Interactive elements, Mobile-first design  
-![Project Screenshot](https://via.placeholder.com/600x300.png?text=Project+2+Screenshot)
+**Features:** Mobile-first, Animations  
+![Screenshot](https://via.placeholder.com/600x300.png?text=Project+2)
 
----
+    </td>
+  </tr>
 
-## 📊 GitHub Stats
+  <tr>
+    <!-- Right column row 3 -->
+    <td width="60%" valign="top">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<h3>📊 GitHub Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
 
----
+    </td>
+  </tr>
 
-## 📫 Contact Me
+  <tr>
+    <!-- Right column row 4 -->
+    <td width="60%" valign="top">
 
+<h3>📫 Contact Me</h3>
 📧 Email: youremail@example.com  
 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
 🌐 [Portfolio Website](https://yourwebsite.com)
 
----
+    </td>
+  </tr>
+</table>
