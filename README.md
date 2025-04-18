@@ -4,7 +4,6 @@
     <td width="40%" valign="top">
 
 
-
         
       <h1>👋 Hi there, I'm [Your Name]!</h1>
     
