@@ -4,11 +4,8 @@
     <td width="40%" valign="top">
       <h1>👋 Hi there, I'm [Your Name]!</h1>
       I'm a passionate [Your Role] from [Your Country] 🌍  
-     <tr>
-          <td>
-            I love building cool stuff and solving real-world problems with code.
-           <td> 
-             <tr>
+            
+      I love building cool stuff and solving real-world problems with code.
          
       Let's connect and collaborate! 🚀
 
