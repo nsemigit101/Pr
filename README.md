@@ -2,10 +2,17 @@
 <tr>
     <!-- Left column (stays as one column) -->
     <td width="40%" valign="top">
+
+
+
+        
       <h1>👋 Hi there, I'm [Your Name]!</h1>
-      *I'm a passionate [Your Role] from [Your Country] 🌍    
-      *I love building cool stuff and solving real-world problems with code.
-      *Let's connect and collaborate! 🚀
+    
+      I'm a passionate [Your Role] from [Your Country] 🌍  
+        
+      I love building cool stuff and solving real-world problems with code.
+      
+      Let's connect and collaborate! 🚀
 
       <h3>🛠️ Tech Stack</h3>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" />
