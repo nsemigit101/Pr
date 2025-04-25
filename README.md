@@ -36,7 +36,7 @@
      <p style="font-weight: bold; color: #f0f8ff; font-size: 28px;  padding: 0.2rem 0.2rem 0.2rem 1%;">
       Home
     <p style="font-weight: bold; color: #2c3e50; font-size: 28px;  padding: 0.2rem 0.2rem 0.2rem 1%;">
-    Semir M. Negash
+    name
     <p> Highly interested in R and D projects involving the design, experimentation and
         simulation based analysis of problem solving, energy efficient and revolutionary 
         green Techs. Having leveraged multiple CAD/CAM tools along with FEA, CFD and AI/ML 
@@ -56,9 +56,9 @@
           <p style="font-weight: bold; color: #16a085; font-size: 20px;">
     📫 Contact 
     <ul>
-       <li><a href="mailto:semirm.negash@email.com">Email</a></li>
-      <li><a href="https://www.linkedin.com/in/nsemir">LinkedIn</a></li>
-      <li><a href="//https://github.com/nsemigit101">Website</a></li>
+       <li><a href="mailto:@email.com">Email</a></li>
+      <li><a href="https://www.linkedin.com/in/">LinkedIn</a></li>
+      <li><a href="//https://github.com/">Website</a></li>
     </ul>
   </div>
   <!-- Middle Column -->
